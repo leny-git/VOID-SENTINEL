@@ -1,0 +1,79 @@
+LEN-Y Open Source License v1.0
+
+Copyright (c) 2026 LENY
+
+Bu yazılım açık kaynak olarak sunulmaktadır. Yazılımın kaynak koduna erişilebilir, incelenebilir ve kişisel/ticari olmayan amaçlarla kullanılabilir.
+
+1. İzin Verilen Kullanımlar
+
+Bu lisans kapsamında:
+
+- Yazılımın kaynak kodunu inceleyebilirsiniz.
+- Yazılımı kişisel ve ticari olmayan projelerde kullanabilirsiniz.
+- Yazılımı kendi ortamınızda çalıştırabilirsiniz.
+- Kaynak kodunu kopyalayabilirsiniz.
+- Yazılımı değiştirmek veya geliştirmek için kaynak kod üzerinde çalışma yapabilirsiniz; ancak yapılan değişikliklerin projeye dahil edilmesi, dağıtılması veya yayımlanması için aşağıdaki izin şartları geçerlidir.
+
+2. Geliştirici Adının Korunması
+
+Yazılımın orijinal geliştiricisinin/geliştiricilerinin (LENY) adı, telif hakkı bildirimi ve bu lisans bildirimi hiçbir şekilde kaldırılamaz, gizlenemez veya değiştirilemez.
+
+Yazılımın veya değiştirilmiş bir sürümünün dağıtılması durumunda orijinal geliştiricinin adı açık ve görünür şekilde belirtilmelidir.
+
+3. Değişiklik ve Türev Sürümler
+
+Yazılımın kaynak kodunda herhangi bir değişiklik, geliştirme, yeniden düzenleme veya türev çalışma yapılması serbesttir; ancak değiştirilmiş sürümün:
+
+- yayımlanması,
+- dağıtılması,
+- başka bir projeye dahil edilmesi,
+- yeniden adlandırılarak sunulması,
+- GitHub veya başka bir platformda paylaşılması
+
+için orijinal telif hakkı sahibinden (LENY) önceden yazılı izin alınması zorunludur.
+
+İzin alınmadan değiştirilmiş veya türetilmiş bir sürümün kamuya açık şekilde yayımlanması veya dağıtılması yasaktır.
+
+4. Ticari Kullanım
+
+Bu yazılım ticari amaçlarla kullanılamaz.
+
+Aşağıdakiler dahil olmak üzere ticari kullanım yasaktır:
+
+- Yazılımın satılması,
+- Yazılımın ücretli bir ürünün parçası olarak kullanılması,
+- Yazılım üzerinden doğrudan gelir elde edilmesi,
+- Yazılımın ücretli hizmet olarak sunulması,
+- Yazılımın ticari bir uygulamaya veya ürüne dahil edilmesi.
+
+Ticari kullanım için ayrıca telif hakkı sahibinden (LENY) açık ve yazılı izin alınması gerekir.
+
+5. Yeniden Dağıtım
+
+Yazılımın değiştirilmemiş orijinal sürümünün dağıtılması mümkündür; ancak:
+
+- Telif hakkı bildirimi korunmalıdır.
+- Orijinal geliştiricinin adı (LENY) korunmalıdır.
+- Bu lisans metni korunmalıdır.
+- Yazılım ücret karşılığında dağıtılamaz.
+- Yazılımın değiştirilmiş bir sürümü izinsiz şekilde dağıtılamaz.
+
+6. İzinler
+
+Bu lisansın açıkça izin vermediği tüm haklar telif hakkı sahibi LENY'ye aittir.
+
+Bu lisans kapsamında verilen izinler, telif hakkı sahibinin yazılı izni olmadan devredilemez veya genişletilemez.
+
+7. İhlal
+
+Bu lisansın herhangi bir şartının ihlal edilmesi halinde bu lisans kapsamında verilen kullanım, kopyalama ve dağıtım izinleri otomatik olarak sona erer.
+
+8. Garanti
+
+Yazılım herhangi bir garanti olmaksızın, "olduğu gibi" sunulmaktadır. Telif hakkı sahibi, yazılımın kullanımından veya kullanım dışı kalmasından kaynaklanan herhangi bir zarardan sorumlu değildir.
+
+---
+
+Copyright (c) 2026 LENY
+
+Bu yazılım LEN-Y Open Source License v1.0 şartları altında lisanslanmıştır.
