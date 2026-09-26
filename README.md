@@ -49,5 +49,11 @@ pip install psutil
 ```bash 
 git clone https://github.com/leny-git/VOID-SENTINEL.git
   ```
+### 3. Klasöre Girin ve Çalıştırın:
+```bash 
+cd VOID-SENTINEL
+python3 void_sentinel.py
+ ``` 
+
 
 
