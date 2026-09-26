@@ -44,5 +44,10 @@ Siber güvenlik, adli bilişim (DFIR), kriptografi ve ağ analizi için gelişti
 ```bash
 sudo apt update && sudo apt install python3 git -y
 pip install psutil
+  ``` 
+### 2. Repoyu Klonlayın:
+```bash 
+git clone [https://github.com/leny-git/VOID-SENTINEL.git)
+  ```
 
 
