@@ -44,8 +44,5 @@ Siber güvenlik, adli bilişim (DFIR), kriptografi ve ağ analizi için gelişti
 ```bash
 sudo apt update && sudo apt install python3 git -y
 pip install psutil
- 
-
-
 
 
