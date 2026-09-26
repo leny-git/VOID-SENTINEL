@@ -47,7 +47,7 @@ pip install psutil
   ``` 
 ### 2. Repoyu Klonlayın:
 ```bash 
-git clone [https://github.com/leny-git/VOID-SENTINEL.git)
+git clone https://github.com/leny-git/VOID-SENTINEL.git
   ```
 
 
