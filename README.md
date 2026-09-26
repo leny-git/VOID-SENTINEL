@@ -55,5 +55,19 @@ cd VOID-SENTINEL
 python3 void_sentinel.py
  ``` 
 
+---
+
+## ⚠️ Yasal Uyarı / Disclaimer
+
+Bu araç yalnızca **eğitim**, **güvenlik araştırmaları** ve **yetkili siber güvenlik testleri** amacıyla geliştirilmiştir. Kötüye kullanım halinde doğabilecek tüm yasal sorumluluk son kullanıcıya aittir.
+
+---
+
+<div align="center">
+
+**Developed with ❤️ by [LENY](https://github.com/leny-git)**
+
+</div>
+
 
 
